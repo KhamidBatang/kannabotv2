@@ -48,14 +48,14 @@ global.sig = 'https://www.instagram.com/khamid_serba_ada'
 global.sgh = 'https://github.com/KhamidBatang'
 global.sgc = 'https://chat.whatsapp.com/DojCFswvX2nGMtK2vCrjOz'
 global.sdc = " "
-global.snh = 'https://nhentai.net/g/365296/'
+global.snh = ' '
 
 /*============== PAYMENT ==============*/
-global.pdana = '08533'
-global.povo = '085712420674'
-global.pgopay = '085712420674'
-global.ppulsa = '085334930628'
-global.ppulsa2 = '081336990781'
+global.pdana = '-'
+global.povo = '-'
+global.pgopay = '-'
+global.ppulsa = '081947707409'
+global.ppulsa2 = '-'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
