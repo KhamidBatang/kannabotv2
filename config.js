@@ -45,13 +45,13 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // Wajib diisi ya kak!, kalo ga punya biarin aja, biar ada creditsnya :v
 global.sig = 'https://www.instagram.com/khamid_serba_ada'
-global.sgh = 'https://github.com/khamidbatang'
-global.sgc = 'https://chat.whatsapp.com/FF1Bd1U0FHu42rfz6uplbn'
+global.sgh = 'https://github.com/KhamidBatang'
+global.sgc = 'https://chat.whatsapp.com/DojCFswvX2nGMtK2vCrjOz'
 global.sdc = " "
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085334930628'
+global.pdana = '08533'
 global.povo = '085712420674'
 global.pgopay = '085712420674'
 global.ppulsa = '085334930628'
