@@ -1,1 +1,2 @@
-web: pm2
+web: node . --server
+woker: pm2
